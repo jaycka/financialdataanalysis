@@ -1,6 +1,5 @@
 2020秋季 Financial Data Analysis Exercises
 ====================================
-## Uploads
   
   [Exercise-1          09/14](https://github.com/jaycka/financialdataanalysis/blob/master/Exercise1.py) 
 
